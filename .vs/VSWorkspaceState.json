@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Notifications",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\calendar",
+    "\\resources\\views\\layouts",
+    "\\routes"
+  ],
+  "SelectedNode": "\\resources\\views\\calendar\\appointment-calendar.blade.php",
+  "PreviewInSolutionExplorer": false
+}
